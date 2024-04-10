@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 
 let counter = 0;
